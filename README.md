@@ -17,9 +17,9 @@
  --- 
 
 ## Project Objective 
-- # Primary objective
+### Primary objective
 - Implement an automated SQL-driven system to improve operational efficiency, service delivery and management decision-making.
-- # Secondary objectives
+### Secondary objectives
 - Automate identification of overdue books and calculation of fines.
 - Enable real-time updates of book availability upon return.
 - Generate standardized branch performance reports.
