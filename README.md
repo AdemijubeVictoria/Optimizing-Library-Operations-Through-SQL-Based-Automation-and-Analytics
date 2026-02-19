@@ -71,23 +71,6 @@ The dataset include 6 tables:
 ## Tools & Techniques 
 - SQL
 
-
---- 
-
-## Project Files (included) 
-- `City  General Hospital Analytics Dashboard.xlsx` — interactive dashboard file  
-- `City Hospital Dataset .xlsx` — raw dataset 
-- `CITY HOSPITAL OPERATIONAL PERFORMANCE ANALYSIS.pdf` — presentation slides    
-- `README.md` — this documentation 
-
-
---- 
-## How to Run / View 
-1. Open `City  General Hospital Analytics Dashboard.xlsx` in Excel  
-2. Enable content (if prompted) to allow Pivot Tables and slicers to work   
-3. Use slicers to filter by Gender, Age group Test result.   
-4. Refer to `CITY HOSPITAL OPERATIONAL PERFORMANCE ANALYSIS.pdf` for a summary of insights and recommended actions
-
  --- 
 
 ## Contact 
